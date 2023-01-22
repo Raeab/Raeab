@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeab&theme=radical)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeab&langs_count=5&theme=tokyonight)]()
 
-[Visitor Count](https://profile-counter.glitch.me/{Raeab}/count.svg)
