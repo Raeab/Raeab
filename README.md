@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I’m looking to collaborate on Automation, DS and ML projects.
+- I’m looking to collaborate on Automation, DS and ML projects.
 - 📫 How to reach me: https://www.linkedin.com/in/kaleab-e-kebede/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeab&theme=radical)
